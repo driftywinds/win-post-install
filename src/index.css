@@ -557,3 +557,16 @@ body {
   color: var(--win95-white);
   border-color: var(--win95-black);
 }
+
+/* Category description hover effect */
+.win98-button:hover .category-description {
+  color: #fff !important;
+}
+
+/* Larger action buttons */
+.win98-button-primary,
+.win98-button-danger {
+  font-size: 13px;
+  padding: 8px 16px;
+  min-height: 36px;
+}

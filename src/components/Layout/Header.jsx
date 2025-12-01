@@ -11,7 +11,7 @@ const Header = () => {
             <h1 style={{ fontSize: '18px', fontWeight: 'bold', marginBottom: '4px' }}>
               Windows Post-Install Generator
             </h1>
-            <p style={{ fontSize: '11px', color: 'var(--win98-gray-dark)', lineHeight: '1.5' }}>
+            <p style={{ fontSize: '12px', color: 'var(--win98-gray-dark)', lineHeight: '1.5' }}>
               Create custom installation script that:<br />
               • automatically installs selected programs<br />
               • adjusts selected settings<br />

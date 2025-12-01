@@ -25,7 +25,7 @@ const ConfigSection = ({ category, configs }) => {
             <div style={{ fontSize: '13px', fontWeight: 'bold', marginBottom: '3px', lineHeight: '1.2' }}>
               {category.name}
             </div>
-            <div style={{ fontSize: '10px', fontWeight: 'normal', color: 'var(--win98-gray-dark)', lineHeight: '1.3' }}>
+            <div className="category-description" style={{ fontSize: '11px', fontWeight: 'normal', color: '#000', lineHeight: '1.3' }}>
               {category.description}
             </div>
           </div>
