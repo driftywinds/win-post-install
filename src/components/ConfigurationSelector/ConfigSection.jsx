@@ -39,7 +39,7 @@ const ConfigSection = ({ category, configs }) => {
         <div style={{
           display: 'grid',
           gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
-          gap: '8px'
+          gap: '12px'
         }}>
           {configs.map((config) => (
             <ConfigOption key={config.id} config={config} />
