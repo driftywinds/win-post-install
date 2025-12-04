@@ -22,6 +22,19 @@ const Header = () => {
           </div>
           <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
             <a
+              href="https://kaic.me/?ref=win-post-install"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ 
+                textDecoration: 'underline', 
+                color: 'var(--win98-black)',
+                fontSize: '12px'
+              }}
+              title="Visit Kaic's website"
+            >
+              Made by Kaic
+            </a>
+            <a
               href="https://github.com/kaic/win-post-install"
               target="_blank"
               rel="noopener noreferrer"
