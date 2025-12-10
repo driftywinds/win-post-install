@@ -1,5 +1,6 @@
 import Layout from './components/Layout/Layout';
 import Header from './components/Layout/Header';
+import Footer from './components/Layout/Footer';
 import ActionBar from './components/ActionBar/ActionBar';
 import SoftwareSelector from './components/SoftwareSelector/SoftwareSelector';
 import ConfigurationSelector from './components/ConfigurationSelector/ConfigurationSelector';
@@ -15,6 +16,7 @@ function App() {
         <SoftwareSelector />
         <ConfigurationSelector />
       </div>
+      <Footer />
     </Layout>
   );
 }
