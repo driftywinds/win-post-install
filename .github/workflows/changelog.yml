@@ -47,7 +47,7 @@ jobs:
             if [[ "$message" =~ Merge\ pull\ request\ \#([0-9]+) ]]; then
               pr_number="${BASH_REMATCH[1]}"
               pr_link="[#${pr_number}](https://github.com/kaic/win-post-install/pull/${pr_number})"
-              message=$(echo "$message" | sed "s/Merge pull request #${pr_number}/${pr_link}/")
+              message=$(echo "$message" | sed "s|Merge pull request #${pr_number}|${pr_link}|")
             fi
 
             echo "- $message (${author_link})" >> /tmp/changelog_content.md
