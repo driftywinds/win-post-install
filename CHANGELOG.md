@@ -11,10 +11,9 @@ This changelog is automatically generated from git commits.
 
 ### 2025-12-10
 
+- ci: exclude bot commits from changelog (@Kaic Bento)
 - ci: simplify changelog to avoid API rate limits (@Kaic Bento)
-- docs: update changelog [skip ci] (@github-actions[bot])
 - ci: add author profile links to changelog (@Kaic Bento)
-- docs: update changelog [skip ci] (@github-actions[bot])
 - docs: add documentation section with changelog link (@Kaic Bento)
 - feat: add simple footer with links and move credits from header (@Kaic Bento)
 - ci: add auto-changelog workflow (@Kaic Bento)
@@ -67,5 +66,6 @@ This changelog is automatically generated from git commits.
 - feat: add Windows 98 UI components (@Kaic)
 - feat: add system configurations (@Kaic)
 - feat: add software catalog system (@Kaic)
+- chore: initialize project structure (@Kaic)
 
 <!-- CHANGELOG_END -->
