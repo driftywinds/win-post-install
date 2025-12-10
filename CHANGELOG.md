@@ -11,6 +11,8 @@ This changelog is automatically generated from git commits.
 
 ### 2025-12-10
 
+- fix: use pipe delimiter in sed for changelog workflow (@Kaic Bento)
+- ci: add PR links and author profile links to changelog (@Kaic Bento)
 - docs: move changelog link to top of README (@Kaic Bento)
 - Create FUNDING.yml (@Kaic)
 - refactor: split catalog into individual files per software/config (#12) (@Kaic)
@@ -30,7 +32,7 @@ This changelog is automatically generated from git commits.
 - docs: add pull request template (@Kaic Bento)
 - docs: add issue templates for software, config, UI, and bugs (@Kaic Bento)
 - docs: add MIT license file (@Kaic Bento)
-- Merge pull request #7 from Citingmarc/fix/scrolling-visibility-issue (@Kaic)
+- [#7](https://github.com/kaic/win-post-install/pull/7) from Citingmarc/fix/scrolling-visibility-issue (@Kaic)
 
 ### 2025-12-09
 
