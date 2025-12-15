@@ -9,6 +9,10 @@ This changelog is automatically generated from git commits.
 <!-- CHANGELOG_START -->
 
 
+### 2025-12-15
+
+- feat: auto-discover software and configurations using Vite glob ([#21](https://github.com/kaic/win-post-install/pull/21)) ([@Anton C. Swartz IV](https://github.com/necrogami))
+
 ### 2025-12-11
 
 - Update config-request.yml ([#16](https://github.com/kaic/win-post-install/pull/16)) ([@Kaic](https://github.com/kaic))
