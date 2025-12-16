@@ -11,6 +11,10 @@ This changelog is automatically generated from git commits.
 
 ### 2025-12-15
 
+- feat: add Win-style prompts for download and clear actions ([#26](https://github.com/kaic/win-post-install/pull/26)) ([@Kaic](https://github.com/kaic))
+- fix: improve dark theme contrast ([#25](https://github.com/kaic/win-post-install/pull/25)) ([@Kaic](https://github.com/kaic))
+- Fix competitive gaming network tweaks (remove invalid Nagle tweak; add advanced TcpAckFrequency option) ([#24](https://github.com/kaic/win-post-install/pull/24)) ([@Kaic](https://github.com/kaic))
+- chore/remove risky software ([#23](https://github.com/kaic/win-post-install/pull/23)) ([@Kaic](https://github.com/kaic))
 - feat: auto-discover software and configurations using Vite glob ([#21](https://github.com/kaic/win-post-install/pull/21)) ([@Anton C. Swartz IV](https://github.com/necrogami))
 
 ### 2025-12-11
