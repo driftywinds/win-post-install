@@ -9,6 +9,12 @@ This changelog is automatically generated from git commits.
 <!-- CHANGELOG_START -->
 
 
+### 2026-01-07
+
+- feat(ui): add select all button to configuration sections ([#32](https://github.com/kaic/win-post-install/pull/32)) ([@Kaic](https://github.com/kaic))
+- feat(search): add real-time catalog search and filtering ([#31](https://github.com/kaic/win-post-install/pull/31)) ([@Kaic](https://github.com/kaic))
+- feat(ui): add select all button to category headers ([#30](https://github.com/kaic/win-post-install/pull/30)) ([@Kaic](https://github.com/kaic))
+
 ### 2025-12-15
 
 - feat: add Win-style prompts for download and clear actions ([#26](https://github.com/kaic/win-post-install/pull/26)) ([@Kaic](https://github.com/kaic))
