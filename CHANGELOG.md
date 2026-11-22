@@ -9,6 +9,44 @@ This changelog is automatically generated from git commits.
 <!-- CHANGELOG_START -->
 
 
+### 2026-11-21
+
+- chore(deps): bump @vitejs/plugin-react to 6.3.0 ([#60](https://github.com/kaic/win-post-install/pull/60)) ([@Kaic](https://github.com/kaic))
+- docs: sync software and configuration counts ([#59](https://github.com/kaic/win-post-install/pull/59)) ([@Kaic](https://github.com/kaic))
+- chore(deps): bump vite to 8 and convert manualChunks to a function ([#58](https://github.com/kaic/win-post-install/pull/58)) ([@Kaic](https://github.com/kaic))
+- chore(deps): bump eslint-plugin-react-refresh to 0.5.8 ([#57](https://github.com/kaic/win-post-install/pull/57)) ([@Kaic](https://github.com/kaic))
+- chore(deps): bump eslint from 9.39.5 to 10.15.0 ([#45](https://github.com/kaic/win-post-install/pull/45)) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- chore(deps): bump glob from 13.0.7 to 14.0.6 ([#42](https://github.com/kaic/win-post-install/pull/42)) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- chore(deps): bump globals from 16.5.0 to 17.14.0 ([#44](https://github.com/kaic/win-post-install/pull/44)) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- ci(deps): bump actions/configure-pages from 4 to 6 ([#40](https://github.com/kaic/win-post-install/pull/40)) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- ci(deps): bump actions/upload-pages-artifact from 3 to 5 ([#39](https://github.com/kaic/win-post-install/pull/39)) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- ci(deps): bump actions/deploy-pages from 4 to 5 ([#37](https://github.com/kaic/win-post-install/pull/37)) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- ci(deps): bump actions/setup-node from 4 to 7 ([#38](https://github.com/kaic/win-post-install/pull/38)) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- ci(deps): bump actions/checkout from 4 to 7 ([#36](https://github.com/kaic/win-post-install/pull/36)) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+### 2026-11-20
+
+- feat: Added Opera Browser ([#33](https://github.com/kaic/win-post-install/pull/33)) ([@Nolan Bragan](https://github.com/ngbcoder))
+
+### 2026-11-21
+
+- fix(generator): warn when the winget source cannot be updated ([#56](https://github.com/kaic/win-post-install/pull/56)) ([@Kaic](https://github.com/kaic))
+- feat(catalog): add Waterfox ([#55](https://github.com/kaic/win-post-install/pull/55)) ([@Kaic](https://github.com/kaic))
+- feat(catalog): add Display Driver Uninstaller ([#54](https://github.com/kaic/win-post-install/pull/54)) ([@Kaic](https://github.com/kaic))
+- feat(catalog): add Bulk Crap Uninstaller ([#53](https://github.com/kaic/win-post-install/pull/53)) ([@Kaic](https://github.com/kaic))
+- feat(catalog): add WizTree ([#52](https://github.com/kaic/win-post-install/pull/52)) ([@Kaic](https://github.com/kaic))
+
+### 2026-11-20
+
+- feat(catalog): add Zen Browser ([#51](https://github.com/kaic/win-post-install/pull/51)) ([@Kaic](https://github.com/kaic))
+- feat(catalog): add Helium browser ([#50](https://github.com/kaic/win-post-install/pull/50)) ([@Kaic](https://github.com/kaic))
+- feat(catalog): add System Informer ([#49](https://github.com/kaic/win-post-install/pull/49)) ([@Kaic](https://github.com/kaic))
+- feat(catalog): add FastStone Image Viewer ([#48](https://github.com/kaic/win-post-install/pull/48)) ([@Kaic](https://github.com/kaic))
+- feat(catalog): add Notepad3 ([#47](https://github.com/kaic/win-post-install/pull/47)) ([@Kaic](https://github.com/kaic))
+- feat(catalog): add Nextcloud desktop client ([#46](https://github.com/kaic/win-post-install/pull/46)) ([@Kaic](https://github.com/kaic))
+- docs(readme): add app screenshot header ([#35](https://github.com/kaic/win-post-install/pull/35)) ([@Kaic](https://github.com/kaic))
+- chore(deps): add dependabot and refresh dependencies ([#34](https://github.com/kaic/win-post-install/pull/34)) ([@Kaic](https://github.com/kaic))
+
 ### 2026-01-07
 
 - feat(ui): add select all button to configuration sections ([#32](https://github.com/kaic/win-post-install/pull/32)) ([@Kaic](https://github.com/kaic))
